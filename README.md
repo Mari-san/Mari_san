@@ -1,7 +1,7 @@
 # Olá, eu sou a Marília Santos 👋
 
 ## 🚀 Sobre mim
-- https://icons8.com.br/icon/MmkqIRv7P6Xy/books-emoji Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4e9b86e0-7ccd-4b35-aa2e-bd124444d0db" /> Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
 - Estou iniciando minha jornada no desenvolvimento de software, com foco em criar soluções eficientes e aprender novas tecnologias todos os dias. 
 - 🌱 Atualmente estou aprendendo mais sobre Python e desenvolvimento Web.
 
